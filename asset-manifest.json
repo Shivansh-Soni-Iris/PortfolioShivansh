@@ -1,28 +1,34 @@
 {
   "files": {
-    "main.css": "/PortfolioShivansh/static/css/main.2452070f.css",
-    "main.js": "/PortfolioShivansh/static/js/main.1df14745.js",
+    "main.css": "/PortfolioShivansh/static/css/main.89f70606.css",
+    "main.js": "/PortfolioShivansh/static/js/main.befbe4db.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioShivansh/static/js/787.1ed0c42c.chunk.js",
     "static/media/shivansh.gif": "/PortfolioShivansh/static/media/shivansh.ddde05f030a2ffb9271b.gif",
     "static/media/color-sharp.png": "/PortfolioShivansh/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/project-img1.png": "/PortfolioShivansh/static/media/project-img1.a87fc171eae167fb2fb7.png",
+    "static/media/django.png": "/PortfolioShivansh/static/media/django.47daa66d9bee5b34fa56.png",
     "static/media/neon_logo-modified.png": "/PortfolioShivansh/static/media/neon_logo-modified.c69ec95ed7e20389c266.png",
+    "static/media/python.png": "/PortfolioShivansh/static/media/python.dea924d737bb84eb9ce3.png",
     "static/media/banner-bg.png": "/PortfolioShivansh/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/html.png": "/PortfolioShivansh/static/media/html.9e2517dc2f32727cd3ac.png",
+    "static/media/java.png": "/PortfolioShivansh/static/media/java.fdabd4e11f1235e4e8e0.png",
     "static/media/footer-bg.png": "/PortfolioShivansh/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/CentraNo2-Book.ttf": "/PortfolioShivansh/static/media/CentraNo2-Book.72c0fe58795586249b47.ttf",
     "static/media/CentraNo2-Medium.ttf": "/PortfolioShivansh/static/media/CentraNo2-Medium.54d43c63229859fe26d2.ttf",
     "static/media/CentraNo2-Bold.ttf": "/PortfolioShivansh/static/media/CentraNo2-Bold.b61fc644acf0c61b7549.ttf",
+    "static/media/React.png": "/PortfolioShivansh/static/media/React.2a0cac33f155e4a27216.png",
     "static/media/revicons.eot": "/PortfolioShivansh/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/PortfolioShivansh/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/PortfolioShivansh/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/HR.svg": "/PortfolioShivansh/static/media/HR.e8e7d3aedd3426297b7be5f6c5dcb77b.svg",
     "index.html": "/PortfolioShivansh/index.html",
     "static/media/nav-icon1.svg": "/PortfolioShivansh/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.2452070f.css.map": "/PortfolioShivansh/static/css/main.2452070f.css.map",
-    "main.1df14745.js.map": "/PortfolioShivansh/static/js/main.1df14745.js.map",
+    "main.89f70606.css.map": "/PortfolioShivansh/static/css/main.89f70606.css.map",
+    "main.befbe4db.js.map": "/PortfolioShivansh/static/js/main.befbe4db.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioShivansh/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2452070f.css",
-    "static/js/main.1df14745.js"
+    "static/css/main.89f70606.css",
+    "static/js/main.befbe4db.js"
   ]
 }
