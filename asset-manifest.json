@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioShivansh/static/css/main.89f70606.css",
-    "main.js": "/PortfolioShivansh/static/js/main.befbe4db.js",
+    "main.js": "/PortfolioShivansh/static/js/main.034f08ce.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioShivansh/static/js/787.1ed0c42c.chunk.js",
     "static/media/shivansh.gif": "/PortfolioShivansh/static/media/shivansh.ddde05f030a2ffb9271b.gif",
     "static/media/color-sharp.png": "/PortfolioShivansh/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -13,6 +13,7 @@
     "static/media/html.png": "/PortfolioShivansh/static/media/html.9e2517dc2f32727cd3ac.png",
     "static/media/java.png": "/PortfolioShivansh/static/media/java.fdabd4e11f1235e4e8e0.png",
     "static/media/footer-bg.png": "/PortfolioShivansh/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/dot net.png": "/PortfolioShivansh/static/media/dot net.b412fea11319ffdbe75e.png",
     "static/media/CentraNo2-Book.ttf": "/PortfolioShivansh/static/media/CentraNo2-Book.72c0fe58795586249b47.ttf",
     "static/media/CentraNo2-Medium.ttf": "/PortfolioShivansh/static/media/CentraNo2-Medium.54d43c63229859fe26d2.ttf",
     "static/media/CentraNo2-Bold.ttf": "/PortfolioShivansh/static/media/CentraNo2-Bold.b61fc644acf0c61b7549.ttf",
@@ -24,11 +25,11 @@
     "index.html": "/PortfolioShivansh/index.html",
     "static/media/nav-icon1.svg": "/PortfolioShivansh/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.89f70606.css.map": "/PortfolioShivansh/static/css/main.89f70606.css.map",
-    "main.befbe4db.js.map": "/PortfolioShivansh/static/js/main.befbe4db.js.map",
+    "main.034f08ce.js.map": "/PortfolioShivansh/static/js/main.034f08ce.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioShivansh/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89f70606.css",
-    "static/js/main.befbe4db.js"
+    "static/js/main.034f08ce.js"
   ]
 }
