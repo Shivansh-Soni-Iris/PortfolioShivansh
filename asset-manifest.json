@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioShivansh/static/css/main.122b1344.css",
-    "main.js": "/PortfolioShivansh/static/js/main.e7f45048.js",
+    "main.js": "/PortfolioShivansh/static/js/main.5213cde6.js",
     "static/js/453.1407b060.chunk.js": "/PortfolioShivansh/static/js/453.1407b060.chunk.js",
     "static/media/shivansh.gif": "/PortfolioShivansh/static/media/shivansh.ddde05f030a2ffb9271b.gif",
     "static/media/gallery.png": "/PortfolioShivansh/static/media/gallery.fca371f20431ae155cfa.png",
@@ -24,16 +24,17 @@
     "static/media/React.png": "/PortfolioShivansh/static/media/React.2a0cac33f155e4a27216.png",
     "static/media/revicons.eot": "/PortfolioShivansh/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/PortfolioShivansh/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/flask.png": "/PortfolioShivansh/static/media/flask.86756d4971d902419b65.png",
     "static/media/revicons.woff": "/PortfolioShivansh/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/HR.svg": "/PortfolioShivansh/static/media/HR.e8e7d3aedd3426297b7be5f6c5dcb77b.svg",
     "index.html": "/PortfolioShivansh/index.html",
     "static/media/nav-icon1.svg": "/PortfolioShivansh/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.122b1344.css.map": "/PortfolioShivansh/static/css/main.122b1344.css.map",
-    "main.e7f45048.js.map": "/PortfolioShivansh/static/js/main.e7f45048.js.map",
+    "main.5213cde6.js.map": "/PortfolioShivansh/static/js/main.5213cde6.js.map",
     "453.1407b060.chunk.js.map": "/PortfolioShivansh/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.122b1344.css",
-    "static/js/main.e7f45048.js"
+    "static/js/main.5213cde6.js"
   ]
 }
