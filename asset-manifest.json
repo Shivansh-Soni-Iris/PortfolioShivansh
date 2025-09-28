@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/PortfolioShivansh/static/css/main.122b1344.css",
-    "main.js": "/PortfolioShivansh/static/js/main.5213cde6.js",
+    "main.js": "/PortfolioShivansh/static/js/main.6de65373.js",
     "static/js/453.1407b060.chunk.js": "/PortfolioShivansh/static/js/453.1407b060.chunk.js",
     "static/media/shivansh.gif": "/PortfolioShivansh/static/media/shivansh.ddde05f030a2ffb9271b.gif",
     "static/media/gallery.png": "/PortfolioShivansh/static/media/gallery.fca371f20431ae155cfa.png",
+    "static/media/moviereview.png": "/PortfolioShivansh/static/media/moviereview.40701c01ccd54c64d622.png",
     "static/media/color-sharp.png": "/PortfolioShivansh/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/PortfolioShivansh/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/project-img1.png": "/PortfolioShivansh/static/media/project-img1.a87fc171eae167fb2fb7.png",
@@ -30,11 +31,11 @@
     "index.html": "/PortfolioShivansh/index.html",
     "static/media/nav-icon1.svg": "/PortfolioShivansh/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.122b1344.css.map": "/PortfolioShivansh/static/css/main.122b1344.css.map",
-    "main.5213cde6.js.map": "/PortfolioShivansh/static/js/main.5213cde6.js.map",
+    "main.6de65373.js.map": "/PortfolioShivansh/static/js/main.6de65373.js.map",
     "453.1407b060.chunk.js.map": "/PortfolioShivansh/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.122b1344.css",
-    "static/js/main.5213cde6.js"
+    "static/js/main.6de65373.js"
   ]
 }
